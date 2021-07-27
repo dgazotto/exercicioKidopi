@@ -29,7 +29,8 @@ Veja mais em: https://github.com/M-Media-Group/Covid-19-API
 2ª parte: 
 - Você também deverá armazenar em um banco de dados (de sua preferência) a data de todos os acessos que seu script fez a Covid-19-API, bem como qual o país escolhido para a consulta.  
 
-3ª parte: - Você deverá criar uma interface gráfica que permita ao usuário escolher o país e visualizar os números de casos confirmados, recuperações e mortes. Além disso, a interface deve conter um aviso no rodapé, informando a data do último acesso à Covid-19-API.
+3ª parte: 
+- Você deverá criar uma interface gráfica que permita ao usuário escolher o país e visualizar os números de casos confirmados, recuperações e mortes. Além disso, a interface deve conter um aviso no rodapé, informando a data do último acesso à Covid-19-API.
 
 Crie seu repositório em modo privado e compartilhe com o usuário dgazotto.
 
