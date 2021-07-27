@@ -21,6 +21,7 @@ Exemplo:
                   "capital_city": "Brasília" 	
                } 
            } 
+
 Veja mais em: https://github.com/M-Media-Group/Covid-19-API  
 
 1º parte:  
